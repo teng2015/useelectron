@@ -1,0 +1,23 @@
+{
+  "name": "useelectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treeandgrass/useelectron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treeandgrass/useelectron/issues"
+  },
+  "homepage": "https://github.com/treeandgrass/useelectron#readme",
+  "dependencies": {
+    "deeplearn": "^0.1.2",
+    "electron": "^1.8.0"
+  }
+}
